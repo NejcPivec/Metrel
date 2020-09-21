@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 ### Screenshots
 
 ![Page1](https://github.com/NejcPivec/Metrel/blob/master/screenshots/page1.png)
-![Page2](https://github.com/NejcPivec/Metrel/blob/master/screenshots/page2.png)
+![Page2](https://github.com/NejcPivec/Metrel/blob/master/screenshots/Page2.png)
